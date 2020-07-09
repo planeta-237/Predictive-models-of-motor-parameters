@@ -16,4 +16,12 @@ Data collection is shown in the following figure.
 The dataset was collected from the production of BOPP films. It represents a million observations of motor speed, motor current, motor temperature, engine torque with a period of one second.
 <p align="center">
   <img src="images/Change_in_motor_parameters.PNG">
+  Fig.3 Parameters motor
+</p>
+
+
+The following models were used in the study:
+<p align="center">
+  <img src="images/Predictive models.jpg">
+  Fig.4 Models
 </p>
