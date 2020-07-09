@@ -9,5 +9,5 @@ Data collection is shown in the following figure.
 <p align="center">
   <img src="images/data_collection.jpg">
   Fig.2 Data collection
- </p>
+</p>
 
