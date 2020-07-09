@@ -4,7 +4,7 @@ The production of BOPP films is a complex process. One of the steps is the trans
 <p align="center">
   <img src="images/installation transverse orientation.png">
   Fig.1 Installation transverse orientation
- </p>
+</p>
 Data collection is shown in the following figure.
 <p align="center">
   <img src="images/data_collection.jpg">
