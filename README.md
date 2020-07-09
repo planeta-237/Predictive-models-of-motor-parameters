@@ -7,3 +7,4 @@ The production of BOPP films is a complex process. One of the steps is the trans
 Data collection is shown in the following figure.
 
 <img src="image/data_collection.png">
+ы
