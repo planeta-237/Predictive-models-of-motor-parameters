@@ -23,5 +23,7 @@ The dataset was collected from the production of BOPP films. It represents a mil
 The following models were used in the study:
 <p align="center">
   <img src="images/Predictive models.jpg">
+</p>
+<p align="center">
   Fig.4 Models
 </p>
